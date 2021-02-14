@@ -1,5 +1,5 @@
-# bible-study: The Law
-Bible Study Guides
+# Bible-study: The Law
+# Bible Study Guides
 
 Read Matthew 23:1-4. Read Malachi 4: 
 What does the prophecy of the coming messiah say about the law? Has this prophecy been fulfilled yet?
