@@ -1,4 +1,4 @@
-# bible-study
+# bible-study: The Law
 Bible Study Guides
 
 Read Matthew 23:1-4. Read Malachi 4: 
