@@ -1,10 +1,10 @@
 # Bible-study: The Law
 # Bible Study Guides
 
-Read [Matthew 23:1-4](http://bib.ly/Mt23.1-4). Read Malachi 4: 
+Read [Matthew 23:1-4](http://bib.ly/Mt23.1-4.KJV). Read Malachi 4: 
 What does the prophecy of the coming messiah say about the law? Has this prophecy been fulfilled yet?
 
-Read Exodus 20:18-22
+Read [Exodus 20:18-22](http://bib.ly/Ex20.18-22.KJV)
 What does "Pharisees sit in Moses' seat" mean? Discuss
 Is there a commandment from Jesus in these verses in Matthew? If so what is the commandment? 
 Who were the Pharises? How do you fulfill this commandment of Jesus today? 
